@@ -69,3 +69,5 @@ s = "i am charan . i'm a python developer,i want to become a data scientist"
 # print(s[-30:-35:-1])
 # print(s.find("p"))
 # print(s.index("to"))
+
+
