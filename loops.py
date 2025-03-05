@@ -8,15 +8,16 @@
 #     fact *= num%10
 #     num = num//10
 # print(fact)
-#
-#
+
+
+
+
 # num = 54633
 # sum=0
 # while num > 0:
 #     sum=sum+num%10
 #     num=num//10
 # print(sum)
-#
 #
 # l=[1,2,3,4,5,6,7,8,9,10]
 # for item in l:
@@ -27,7 +28,7 @@
 #         print("loop exit successfully")
 
 
-#
+
 # i = 1
 # while i < 11:
 #     j=1
@@ -50,7 +51,6 @@
 #     if i%3==0:
 #         break
 
-#
 # def fucntion ():
 #     if i in range(1,100):
 #         pass

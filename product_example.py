@@ -43,3 +43,5 @@ print(watch.manufacturer)
 print(watch.quantity)
 print(energy_drink.id_product)
 print(energy_drink.name)
+
+
